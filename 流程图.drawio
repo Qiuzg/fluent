@@ -127,10 +127,25 @@
           <mxGeometry x="971" y="342.5" width="270" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Nr6nZuN2vkahi435Xmc6-6" value="&lt;b style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px;&quot;&gt;Serendipitous Responance Scanner&lt;/b&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px;&quot;&gt;(SENTINEL)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#e7f0fe, #ededed);" vertex="1" parent="1">
-          <mxGeometry x="314" y="470" width="246" height="50" as="geometry" />
+          <mxGeometry x="290" y="515" width="246" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Nr6nZuN2vkahi435Xmc6-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Compute Resonance&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;`\mathcal{R}=\max_{q}(CosSim(v_q, d_t)\cdot S_q(t))`&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#e7f0fe, #ededed);" vertex="1" parent="1">
-          <mxGeometry x="314" y="520" width="246" height="50" as="geometry" />
+          <mxGeometry x="290" y="565" width="246" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Nr6nZuN2vkahi435Xmc6-8" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px;&quot;&gt;Resonance `\mathcal{R}&amp;gt;\tau_{wake}?`&lt;br&gt;Aha Moment&lt;/span&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=light-dark(#f5f6f7, #39454e);strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="668" y="510" width="148" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="Nr6nZuN2vkahi435Xmc6-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="564" as="sourcePoint" />
+            <mxPoint x="290" y="564" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nr6nZuN2vkahi435Xmc6-10" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="470" as="sourcePoint" />
+            <mxPoint x="1520" y="470" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
