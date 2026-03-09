@@ -26,7 +26,7 @@
           <mxGeometry height="30" width="70" x="135" y="332.5" as="geometry" />
         </mxCell>
         <mxCell id="54DYLxN63Y8OalICZo9K-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="核心调度智能体" vertex="1">
-          <mxGeometry height="94" width="170" x="257" y="298" as="geometry" />
+          <mxGeometry height="96" width="170" x="257" y="298" as="geometry" />
         </mxCell>
         <mxCell id="54DYLxN63Y8OalICZo9K-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="知识问答智能体" vertex="1">
           <mxGeometry height="46" width="104" x="444" y="300" as="geometry" />
